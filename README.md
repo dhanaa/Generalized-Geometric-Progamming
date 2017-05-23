@@ -1,7 +1,10 @@
 # Generalized-Geometric-Progamming
 Generalized Geometric Programming (GGP) Solver for Matlab users
 
-For original paper, please refer to http://maranas.che.psu.edu/pub/1997/Maranas_and_Floudas,_Computers_and_Chem._Eng.,_1997.pdf
+For original paper, please refer to 
+Global Optimization in Generalized Geometric Programming, Maranas and Floudas, 1997
+http://maranas.che.psu.edu/pub/1997/Maranas_and_Floudas,_Computers_and_Chem._Eng.,_1997.pdf
+
 
 GGP here means the coefficient before monomials can be negative, which makes the GP non-convex. The definition of GGP here is different
 from that in other sources like Boyd's toolbox.
